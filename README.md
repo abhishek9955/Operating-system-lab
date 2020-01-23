@@ -1,2 +1,2 @@
 # Operating-system-lab
-cpu scheduling, file management using C++
+cpu scheduling, file management using C and C++
